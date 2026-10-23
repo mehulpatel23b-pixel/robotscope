@@ -1,0 +1,2 @@
+# robotscope has zero third-party dependencies.
+# Python 3.9+ standard library only (urllib, argparse, dataclasses).

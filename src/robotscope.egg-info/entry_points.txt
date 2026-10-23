@@ -1,0 +1,2 @@
+[console_scripts]
+robotscope = robotscope.cli:main

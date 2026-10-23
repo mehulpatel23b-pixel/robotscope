@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/robotscope/__init__.py
+src/robotscope/__main__.py
+src/robotscope/checker.py
+src/robotscope/cli.py
+src/robotscope/crawlers.py
+src/robotscope/parser.py
+src/robotscope.egg-info/PKG-INFO
+src/robotscope.egg-info/SOURCES.txt
+src/robotscope.egg-info/dependency_links.txt
+src/robotscope.egg-info/entry_points.txt
+src/robotscope.egg-info/top_level.txt
+tests/test_robotscope.py
